@@ -98,7 +98,7 @@ public class Algoritmos {
 	 * Obtiene las fechas de un medico pasado como parámetro ordenadas cronologicamente;
 	 * 
 	 */
-	public String[] obtenerFechas()
+	public String[] obtenerFechas(String medico)
 	{
 		return null;
 	}
